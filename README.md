@@ -2,7 +2,8 @@
  
 **`Tech Enthusiast`**   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhyneeAI&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhyneeAI&layout=compact&cache_seconds=1800)
+
 
   
 ---
