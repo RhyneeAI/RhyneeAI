@@ -1,7 +1,9 @@
 <h1 style="color: black; text-underline: none;"> 🔭 Luhung Lugina</h1>
  
 **`Tech Enthusiast`**   
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RhyneeAI&layout=compact)
+![Languages](https://metrics.lecoq.io/RhyneeAI?template=classic&languages=1&languages.limit=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RhyneeAI&layout=compact)
+
   
 ---
 
