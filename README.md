@@ -1,6 +1,9 @@
 <h1 style="color: black; text-underline: none;"> 🔭 Luhung Lugina</h1>
  
-**`Web Backend Developer`**   
+**`Tech Enthusiast`**   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&exclude_repo=repo1,repo2)
+
   
 ---
 
